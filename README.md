@@ -19,7 +19,7 @@
 - 🔭 Currently working on **Flutter Projects**
 - 🌱 Learning **Flutter, UI/UX, Dart & Full Stack Development**
 - 💬 Ask me about **Full Stack Development**
-- 📫 Reach me at: **cabdifitaaxmansour@email.com**
+- 📫 Reach me at: **abdisayidmubarak@email.com**
 - ⚡ Fun Fact: **I love coding and building modern apps**
 
 ---
